@@ -19,7 +19,7 @@ public static int FindMax(int[] array)
     int max = array[0];
 
 
-    foreach (int num in array)
+    foreach (int z in array)
     {
         if (num > max)
         {
